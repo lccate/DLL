@@ -9,7 +9,7 @@
 1 [配置maven环境](https://www.cnblogs.com/pengyan-9826/p/7767070.html)  
 2 导入MachineLearningLibrary："file"->"import"->"existing project into workspace"  
 3 生成算法头文件  
-
+import java.io cannot be resolved问题的解决方法https://blog.csdn.net/weixin_42204641/article/details/82985158
 ### java调用
 
 
